@@ -5,7 +5,6 @@ MCP acts like a universal interface or “bridge” so AI agents can interact wi
 Traditional AI chatbots (including ChatGPT) **cannot access local files or folders directly**.  
 The **Model Context Protocol (MCP)** solves this problem by standardizing how **AI language models (LLMs)** connect to **local and external tools, data, and systems**.
 
-This workshop demonstrates how **MCP enables AI agents to access and edit local files using Claude Desktop**.
  "MCP client connect to MCP server access to file system"
 ---
 
